@@ -1,4 +1,4 @@
-# DOM который построил REACT
+# DOM, который построил REACT
 Здесь вы можете поближе познакомиться с материалами использоваными для презентации
 В презентации были использованы материалы
 * "Полное руководству по Virtual DOM" - https://javascript.plainenglish.io/react-the-virtual-dom-comprehensive-guide-acd19c5e327a
