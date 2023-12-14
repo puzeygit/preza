@@ -1,6 +1,6 @@
 # DOM, который построил REACT
 ###Здесь вы можете поближе познакомиться с материалами использоваными для презентации, а также задать мне вопрос в телеграм <code>[@vpuzey](https://t.me/vpuzey)
-</code> https://t.me/vpuzey
+</code>
 ###В презентации были использованы материалы
 * "Полное руководству по Virtual DOM" - https://javascript.plainenglish.io/react-the-virtual-dom-comprehensive-guide-acd19c5e327a
 * "Объяснение структуры React Fiber" - https://medium.com/@aliWhosane/react-fiber-data-structure-demystified-d3794470a8a4
